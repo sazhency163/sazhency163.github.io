@@ -1,0 +1,864 @@
+{
+  "settings": {
+    "name": "САЖЕНЦЫ ВИНОГРАДА",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#475577",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#d20d0a",
+        "titleFont": "Roboto",
+        "subtitleFont": "Roboto",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#282828",
+        "#222222",
+        "#2cc458",
+        "#0b762a",
+        "#d20d0a",
+        "#2e2e2e"
+      ]
+    },
+    "versionFirst": "4.4.1",
+    "uniqCompNum": 72,
+    "versionPublish": "4.4.1",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Главная",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": "0.7",
+            "fontName": {
+              "name": "Roboto",
+              "url": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "css": "'Roboto', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#slider-h\" aria-expanded=\"false\">ГЛАВНОЕ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery1-k\">КАТАЛОГ</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content1-q\">СТАТЬИ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social-buttons4-1t\">КОНТАКТЫ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content5-15\">ДОСТАВКА</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-x\">О НАС</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"index.html#form1-18\">НАПИШИ НАМ</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "23px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-family": "'Roboto', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.7rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.758rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            },
+            ".btn": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/gsma94uljdq-1-89x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobiriz.store",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "smile-face",
+              "family": "MobiriseIcons",
+              "link": "https://mobiriz.store",
+              "size": "60"
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://vk.com/sazhency63\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">SAZHENCY63</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1o"
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": false,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br>Саженцы столовых &nbsp;сортов винограда<br><br>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Виноград с закрытой корневой системой (одно- , двух- и трех летки) по этому вы можете сажать их с мая по октябрь.\n<br>Все сорта растут и хорошо плодоносят на участке в городском округе Кинель и села Бобровка. Имеют высокую устойчивость к болезням. По вкусовым качествам не уступает винограду выращенному в южных регионах.&nbsp;<br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#gallery1-k\" data-toolbar=\"-mbrBtnMove\">ВЫБРАТЬ САЖЕНЦЫ</a>  ",
+                "overlayOpacity": "0.4",
+                "overlayColor": "#000000"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-810x1080.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><br>Саженцы столовых &nbsp;сортов винограда<br>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<br>Собственное производство.<br> Доставка прямо из питомника.<br> Оптовикам скидки !&nbsp;",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#gallery1-k\" data-toolbar=\"-mbrBtnMove\">ВЫБРАТЬ САЖЕНЦЫ</a>  "
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-h",
+          "_styles": {
+            "H2": {
+              "color": "#f3c649",
+              "font-size": "46px",
+              "text-align": "center",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            },
+            "P": {
+              "text-align": "center",
+              "font-size": "30px"
+            },
+            ".btn": {
+              "font-size": "13px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": "5",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1200x800.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1200x882.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/uborka-2-1-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/original-2-600x833.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/mbr-1200x799.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "",
+          "subtitle1": "",
+          "caption1": "Мы предлагаем саженцы\n<br>собственного производства\n<br>лучших сортов!",
+          "title2": "",
+          "subtitle2": "",
+          "caption2": "Мы доставляем саженцы\n<br>по РФ.<br> Оптовикам скидки",
+          "title3": "",
+          "subtitle3": "",
+          "caption3": "Мы готовы передать\n<br>весь свой опыт, чтобы\n<br>вы получили результат",
+          "title4": "",
+          "subtitle4": "",
+          "caption4": "Мы гарантируем\n<br>качество посадочного\n<br>материала",
+          "title5": "",
+          "subtitle5": "",
+          "caption5": "Вы всегда можете\n<br>получить консультацию\n<br>у наших специалистов",
+          "title6": "Размещайте сайты",
+          "subtitle6": "Не ограничивайтесь только одной платформой",
+          "caption6": "Экспортируйте Ваш сайт на свой компьютер, любые FTP-сервера, включая Amazon, Google Drive, GitHub и другие. Не ограничивайте себя в выборе хостинговой платформы!",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Подробнее</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-i",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "0",
+            "paddingTop": 0,
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#ffffff",
+            "showText": true,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Потрясающий",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/e3973f9153d4c57cb72f2abac2860079dcc1ca36-250x350.png",
+                "thumb": "@PROJECT_PATH@/assets/images/e3973f9153d4c57cb72f2abac2860079dcc1ca36-250x350-250x350.png",
+                "alt": "",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ПРЕОБРАЖЕНИЕ&nbsp;<br>Кусты сильнорослые. Грозди 700-1500 г. Ягоды 14-18 г. Устойчивость к болезням 4 балла. Морозостойкость -23°С. Цена : 300руб<br>",
+                "active": false
+              },
+              {
+                "tags": "Адаптивный",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/ybmftj-e8s-1080x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ybmftj-e8s-1080x1080-800x800.jpg",
+                "alt": "",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; КОДРЯНКА &nbsp; &nbsp;&nbsp;<br>Сорт сверх-раннего срока созревания.&nbsp;Кусты сильнорослые.&nbsp;Ягода до 8-16 г.&nbsp;Гроздь 400-600 г, иногда до 1500 г.Устойчивость к болезням 3 балла.&nbsp;Цена : 300руб",
+                "active": false
+              },
+              {
+                "tags": "Креативный",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-511x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/511x640-511x640.jpg",
+                "alt": "",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;КРАСОТКА<br>Кусты сильнорослые.Ягода до 5-7 г.&nbsp;Гроздь 500-700 г.&nbsp;Устойчивость к болезням 3,5 балла.&nbsp;Цена : 300руб",
+                "active": false
+              },
+              {
+                "tags": "Анимированный",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-616x800.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/616x800-616x800.jpg",
+                "alt": "",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;МОНАРХ<br>Кусты сильнорослые.&nbsp;Грозди 500-600 г.<br>Ягода 15-19 г.&nbsp;Устойчивость к болезням 2 балла.&nbsp;Морозостойкость -25°С. Цена : 300руб",
+                "active": false
+              },
+              {
+                "tags": "Анимированный",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-436x574.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/436x574-436x574.jpg",
+                "alt": "",
+                "caption": "<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ВИКТОР &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<span style=\"background-color: initial;\">Кусты сильнорослые.&nbsp;</span><span style=\"background-color: initial; text-align: justify;\">Ягода 9-14 г.</span><span style=\"background-color: initial; text-align: justify;\">Гроздь 500-1000 г. Цена : 300руб</span></p><p></p><p></p>",
+                "active": false
+              },
+              {
+                "tags": "Анимированный",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-483x644.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/483x644-483x644.jpg",
+                "alt": "",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; КЕША<br>Кусты сильнорослые.Ягода до 6-8 г.Гроздь 600-800 г.Устойчивость к болезням 3 балла.&nbsp;<br>Морозостойкость -23°С. Цена : 300р",
+                "active": false
+              },
+              {
+                "tags": "Анимированный",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-768x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/768x1024-768x1024.jpg",
+                "alt": "",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ЛОРА(ФЛОРА)<br>Кусты сильнорослые.Грозди 700-1500 г.<br>Ягода 10-12 г.Устойчивость к болезням 3 балла.Морозостойкость -21°С.Цена : 300р",
+                "active": false
+              },
+              {
+                "tags": "Анимированный",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-250x350.png",
+                "thumb": "@PROJECT_PATH@/assets/images/250x350-250x350.png",
+                "alt": "",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ПАМЯТИ ХИРУРГА<br>Кусты сильнорослые.&nbsp;Грозди 500-700 г.&nbsp;Ягоды 12-14 г.&nbsp;Устойчивость к болезням 3 балла.&nbsp;<br>Морозостойкость -20°С.&nbsp;Цена : 300р<br>",
+                "active": false
+              },
+              {
+                "tags": "Анимированный",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-834x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/834x1200-800x1151.jpg",
+                "alt": "",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; НАДЕЖДА АЗОС&nbsp;<br>Кусты сильнорослые. Грозди 400-600 г.<br>Ягода 6-8 г. Морозостойкость -22°С.&nbsp;Цена : 300р<br><br>",
+                "active": false
+              },
+              {
+                "tags": "Анимированный",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-538x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/538x640-538x640.jpg",
+                "alt": "",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;ПРОДЮСЕР<br>Кусты сильнорослые.&nbsp;Грозди 600-800 г.&nbsp;<br>Ягоды 8-10 г.&nbsp;Устойчивость к болезням 2,5 балла.&nbsp;Морозостойкость -23°С.&nbsp;Цена : 300р<br>",
+                "active": false
+              },
+              {
+                "tags": "Анимированный",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-1-640x480.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-640x480-640x480.jpg",
+                "alt": "",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ЮБИЛЕЙ НОВОЧЕРКАССКА<br>Кусты сильнорослые.&nbsp;Цветок обоеполый.&nbsp;Грозди 700-1700 г. Ягоды 12-18 г.&nbsp;<br>Морозостойкость -24°С.&nbsp;Устойчивость 3,5 балла.&nbsp;Цена : 300р<br>",
+                "active": false
+              },
+              {
+                "tags": "Анимированный",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-768x10240.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/768x1024-768x1024.jpg",
+                "alt": "",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; СУПЕР ЭКСТРА<br>Cорт очень раннего срока созревания.&nbsp;<br>Кусты сильнорослые.&nbsp;Цветок обоеполый.&nbsp;Грозди 500-700 г.&nbsp;Ягоды 7-9 г. Цена : 300р",
+                "active": false
+              },
+              {
+                "tags": "Анимированный",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-768x515.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/768x515-768x515.jpg",
+                "alt": "",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;БАЙКОНУР&nbsp;<br>Кусты сильнорослые. Ягода 12-16 г.&nbsp;<br>Гроздь 400-700 г. Устойчивость к болезням 3 балла. Морозостойкость 23°С.&nbsp;Цена : 300р",
+                "active": false
+              },
+              {
+                "tags": "Анимированный",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-518x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/518x720-490x707.jpg",
+                "alt": "",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;КСЕНИЯ<br>Сорт раннего срока созревания. Цветок обоеполый.&nbsp;Грозди 600-800 г. Ягоды  9,2 г.&nbsp;<br>Цена : 300р<br>",
+                "active": false
+              },
+              {
+                "tags": "Анимированный",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-600x450.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/600x450-479x410.jpg",
+                "alt": "",
+                "caption": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ВЕЛЕС<br>Морозоустойчивость\tдо — 21 С.Форма грозди\tветвистая.&nbsp;Вес грозди\t900 г.Вес ягод\t5 г.&nbsp;Цена : 300р<br>",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "Все",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-k",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "12px"
+            },
+            ".mbr-gallery-item > div > span P": {
+              "font-size": "12px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><b>Столовые сорта винограда</b> пользуются у садоводов-любителей, пожалуй, даже большим спросом, чем технические сорта. В первую очередь, благодаря приятным внешним данным – большие грозди, разнообразная, иногда даже затейливая окраска, плюс многообразие вкусов и ароматов. Вот еще один важный критерий, который влияет на степень удовольствия при употреблении ягод винограда в пищу - консистенция мякоти. А вы знаете, что мякоть ягод может быть нежной, сочной, тающей, мясисто-сочной, плотной, хрустящей? Добавьте сюда еще море эпитетов, о которых вы даже не подозревали, но которые позволяют довольно точно описать вкусовые ощущения.\n</p><p><br></p><p>Качество ягод столового винограда, внешние характеристики во многом зависят от климата, почвы, рельефа местности и даже возраста самого растения. Хотя, можно смело утверждать, виноград самое неприхотливое или одно из самых неприхотливых в мире плодовых культур.\n</p><p>\n</p><p><span style=\"font-size: 1.07rem;\">В арсенале виноградарей есть огромный ассортимент приемов, которые позволяют получать большой урожай, а также грозди и ягоды наиболее привлекательного вида. Сюда относятся: прищипывание, пасынкование, обломка листьев, обрезка и др.&nbsp;</span><br></p><p>\n</p><p>&nbsp;\n</p><p><span style=\"font-size: 1.07rem;\">Окраска ягод — один из сортовых признаков столового винограда. Она варьирует от черной (темно-синей с фиолетовыми оттенками), фиолетово-красной, красной, темно- и светло-розовой, серой (грязно-розовой) до белой со всеми вариациями: зеленой, зелено-белой, молочно-белой, зеленовато-желтой, золотисто-желтой, янтарной, желтой и др. Особый шарм ягодам винограда добавляет восковой налет пруин, который придает им интересный матовый оттенок.</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-q"
+        },
+        {
+          "_inherit": "features4",
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#41a85f",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "linegraph",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobiriz.store",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "delivery",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobiriz.store",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobiriz.store",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobiriz.store",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobiriz.store",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobiriz.store",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#41a85f",
+              "border-color": "#41a85f"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "15px"
+            }
+          },
+          "title1": "ЧТО МЫ ПРЕДЛОГАЕМ<br><br>",
+          "subtitle1": "Bootstrap признан одним из лучших",
+          "caption1": "1) РАЗНООБРАЗИЕ цен на любой кошелек, без потери качества. Даже у самого недорого сорта отличные характеристики.&nbsp;<br><br>2) ЖЕСТКИЙ КОНТРОЛЬ с нашей стороны позволяет вам вырастить именно тот сорт, который вы хотели посадить.",
+          "title2": "ДОСТАВКА",
+          "subtitle2": "Сильные стороны Bootstrap",
+          "caption2": "<br>1) Мы доставляем саженцы прямо из питомника, минуя посредников.<br><br>2) У нас есть доставка, поэтому вам больше не нужно тратить время на самостоятельную поездку в питомник.<br><br>3) Мы работаем с Почтой России и транспортной компанией СДЭК.&nbsp;<br>",
+          "title3": "ВСЕ ОЧЕНЬ УДОБНО<br><br>",
+          "subtitle3": "Mobirise использует уникальную бесплатную библиотеку Google шрифтов",
+          "caption3": "1) Мы предлагаем схему посадки, с <br>которой справится даже новичок.<br><br>&nbsp;2) Наши саженцы с закрытой корневой системой, поэтому сажать их можно весь сезон - с мая по сентябрь (с учётом погодных условий)\n<br><br>3) Мы всегда поддержим вас и ответим на все ваши вопросы.",
+          "title4": "ПОЧЕМУ НУЖНО ПОКУПАТЬ У НАС?&nbsp;",
+          "subtitle4": "Mobirise дает Вам безграничные возможности для разработки",
+          "caption4": "1) Наши виноградники находятся в Самарской области, поэтому саженцы адаптированы к суровым климатическим условиям.<br><br>2) ЭКОНОМИЯ денег и времени. Наши саженцы дно- , двух- и трех летние, поэтому первый урожай вы можете получить уже на следующий год после посадки. &nbsp;<br><br>3) ГАРАНТИИ качества. Если вы соблюдаете все наши рекомендации, у вас не может не получиться.",
+          "title5": "Красивейшие блоки",
+          "subtitle5": "Выбирайте из огромной коллекции блоков",
+          "caption5": "Mobirise предлагает множество тем, которые включают в себя такие блоки, как слайдеры, галереи, блоки статей, счетчики, блоки с вкладками, видео, анимированным текстом, таблицы с «живыми» фильтрами, магазин, контактные формы, лайтбоксы, отзывы, хронологии, карты, шкалы прогресса и многое другое.",
+          "title6": "Размещайте сайты",
+          "subtitle6": "Не ограничивайтесь только одной платформой",
+          "caption6": "Экспортируйте Ваш сайт на свой компьютер, любые FTP-сервера, включая Amazon, Google Drive, GitHub и другие. Не ограничивайте себя в выборе хостинговой платформы!",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobiriz.store\" class=\"btn btn-primary\">Подробнее</a>",
+          "_name": "features7",
+          "_anchor": "features7-x"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "23px",
+              "color": "#f3c649"
+            },
+            ".mbr-section-title": {
+              "font-size": "23px",
+              "text-align": "left",
+              "color": "#f3c649"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "20px",
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9-1620x1080.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.4"
+          },
+          "title": "УВАЖАЕМЫЕ КЛИЕНТЫ!\n<div>\n</div><div>РАБОТА С ВАШИМИ ЗАКАЗАМИ ПРОИЗВОДИТСЯ ТОЛЬКО ПОСЛЕ ПРЕДВАРИТЕЛЬНОГО ЗАКАЗА САЖЕНЦЕВ И ЕГО 100% ПРЕДОПЛАТЫ!</div>",
+          "caption": "<p><span style=\"font-size: 1.07rem;\">Доставка саженцев начинается по мере готовности саженцев к реализации и с учетом погодных условий! Доставка саженцев по Самаре осуществляется при минимальной суммы заказа 500 рублей. Оплата доставки - курьеру наличными или при оплате заказа. При заказе на сумму от 10 000 рублей доставка БЕСПЛАТНАЯ (только по Самаре).</span></p><p>ДОСТАВКА В ДРУГИЕ РЕГИОНЫ. Доставка в другие регионы осуществляется ТК СДЭК (в города, где есть офисы компании). Доставка осуществляется до пункта выдачи заказа либо до адреса (в этом случае в стоимости доставки включается Доставка до адреса по тарифам ТК).</p><p><span style=\"font-size: 1.07rem;\">Почтой России. Обращаем ваше внимание, что при оплате посылки Вам нужно будет оплатить почтовый сбор за доставку заказа. Точная стоимость пересылки определяется действующими тарифами ФГУП «Почта России» и рассчитывается индивидуально в зависимости от расстояния пересылки, объявленной ценности, веса посылки и НДС.</span><span style=\"font-size: 1.07rem;\">Bсе вопросы по доставке задавать по E-MAIL : sazhency63@yandex.ru</span></p><p><span style=\"font-size: 1.07rem;\"><br></span><span style=\"font-size: 1.07rem;\">Вне сезона, с октября по март, включительно, доставка САЖЕНЦЕВ не производится!</span></p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-15"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Самарская область г, Кинель  село Бобровка\nулица Лесная\n",
+              "placeId": "ChIJVYmzwDAJZkER2Kg5yVqhNJ4",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-1d"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
+            "labelsColor": "#232323",
+            "paddingTop": "1",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "НАПИШИТЕ НАМ",
+          "subtitle": "",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
+          "form": {
+            "action": "sazhency63@yandex.ru",
+            "alerts": {
+              "success": "Сообщение успешно отправлено!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Имя",
+                "customTitle": "Введите Ваше имя*"
+              },
+              "email": {
+                "visible": true,
+                "title": "E-mail",
+                "customTitle": "Введите Ваш E-mail*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Телефон",
+                "customTitle": "Введите номер телефона"
+              },
+              "message": {
+                "title": "Сообщение",
+                "customTitle": "Введите текст сообщения"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-18",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#282828",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "Следите за нами",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCtOTBiV9ZnjApf9T860bTKA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>     <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"https://vk.com/sazhency63\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-1t"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#222222",
+            "overlay": true,
+            "overlayColor": "#222222",
+            "overlayOpacity": 0.8
+          },
+          "text": "&nbsp;2018 © Интернет-магазин \"Sazhency63\".&nbsp;Лучшие столовые сорта винограда. E-mail : sazhency63@yandex.ru <br>Все права защищены.<br><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-1u"
+        }
+      ]
+    }
+  }
+}
